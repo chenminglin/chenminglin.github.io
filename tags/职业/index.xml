@@ -1,0 +1,13 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>职业 - 标签 - Chen Xiao Lin</title>
+        <link>//localhost:1313/tags/%E8%81%8C%E4%B8%9A/</link>
+        <description>职业 - 标签 - Chen Xiao Lin</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 09 May 2024 15:20:21 &#43;0800</lastBuildDate><atom:link href="//localhost:1313/tags/%E8%81%8C%E4%B8%9A/" rel="self" type="application/rss+xml" /><item>
+    <title>第一篇博客</title>
+    <link>//localhost:1313/first/</link>
+    <pubDate>Thu, 09 May 2024 15:20:21 &#43;0800</pubDate><guid>//localhost:1313/first/</guid>
+    <description><![CDATA[今年是特别的一年 今年对我来说真的是特别的一年，第三个本命年，然后又遇上了裁员。 对于一个三十多岁的程序员来说，想要通过再就业也许是一件不太容易]]></description>
+</item>
+</channel>
+</rss>
